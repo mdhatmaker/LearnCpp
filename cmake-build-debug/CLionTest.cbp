@@ -94,6 +94,12 @@
 		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnContainers.h">
 			<Option target="CLionTest"/>
 		</Unit>
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnCpp11.cpp">
+			<Option target="CLionTest"/>
+		</Unit>
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnCpp11.h">
+			<Option target="CLionTest"/>
+		</Unit>
 		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnErrors.cpp">
 			<Option target="CLionTest"/>
 		</Unit>
@@ -116,6 +122,18 @@
 			<Option target="CLionTest"/>
 		</Unit>
 		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnPointers.h">
+			<Option target="CLionTest"/>
+		</Unit>
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnReferences.cpp">
+			<Option target="CLionTest"/>
+		</Unit>
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnReferences.h">
+			<Option target="CLionTest"/>
+		</Unit>
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnTemplates.cpp">
+			<Option target="CLionTest"/>
+		</Unit>
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnTemplates.h">
 			<Option target="CLionTest"/>
 		</Unit>
 		<Unit filename="/Users/michael/CLionProjects/LearnCpp/main.cpp">

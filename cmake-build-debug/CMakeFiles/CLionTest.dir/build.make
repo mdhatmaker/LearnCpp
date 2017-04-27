@@ -249,6 +249,78 @@ CMakeFiles/CLionTest.dir/LearnErrors.cpp.o.provides: CMakeFiles/CLionTest.dir/Le
 CMakeFiles/CLionTest.dir/LearnErrors.cpp.o.provides.build: CMakeFiles/CLionTest.dir/LearnErrors.cpp.o
 
 
+CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o: CMakeFiles/CLionTest.dir/flags.make
+CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o: ../LearnCpp11.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o -c /Users/michael/CLionProjects/LearnCpp/LearnCpp11.cpp
+
+CMakeFiles/CLionTest.dir/LearnCpp11.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLionTest.dir/LearnCpp11.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/LearnCpp/LearnCpp11.cpp > CMakeFiles/CLionTest.dir/LearnCpp11.cpp.i
+
+CMakeFiles/CLionTest.dir/LearnCpp11.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionTest.dir/LearnCpp11.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/LearnCpp/LearnCpp11.cpp -o CMakeFiles/CLionTest.dir/LearnCpp11.cpp.s
+
+CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o.requires:
+
+.PHONY : CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o.requires
+
+CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o.provides: CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o.provides.build
+.PHONY : CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o.provides
+
+CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o.provides.build: CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o
+
+
+CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o: CMakeFiles/CLionTest.dir/flags.make
+CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o: ../LearnTemplates.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o -c /Users/michael/CLionProjects/LearnCpp/LearnTemplates.cpp
+
+CMakeFiles/CLionTest.dir/LearnTemplates.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLionTest.dir/LearnTemplates.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/LearnCpp/LearnTemplates.cpp > CMakeFiles/CLionTest.dir/LearnTemplates.cpp.i
+
+CMakeFiles/CLionTest.dir/LearnTemplates.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionTest.dir/LearnTemplates.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/LearnCpp/LearnTemplates.cpp -o CMakeFiles/CLionTest.dir/LearnTemplates.cpp.s
+
+CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o.requires:
+
+.PHONY : CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o.requires
+
+CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o.provides: CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o.provides.build
+.PHONY : CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o.provides
+
+CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o.provides.build: CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o
+
+
+CMakeFiles/CLionTest.dir/LearnReferences.cpp.o: CMakeFiles/CLionTest.dir/flags.make
+CMakeFiles/CLionTest.dir/LearnReferences.cpp.o: ../LearnReferences.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/CLionTest.dir/LearnReferences.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnReferences.cpp.o -c /Users/michael/CLionProjects/LearnCpp/LearnReferences.cpp
+
+CMakeFiles/CLionTest.dir/LearnReferences.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLionTest.dir/LearnReferences.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/LearnCpp/LearnReferences.cpp > CMakeFiles/CLionTest.dir/LearnReferences.cpp.i
+
+CMakeFiles/CLionTest.dir/LearnReferences.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionTest.dir/LearnReferences.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/LearnCpp/LearnReferences.cpp -o CMakeFiles/CLionTest.dir/LearnReferences.cpp.s
+
+CMakeFiles/CLionTest.dir/LearnReferences.cpp.o.requires:
+
+.PHONY : CMakeFiles/CLionTest.dir/LearnReferences.cpp.o.requires
+
+CMakeFiles/CLionTest.dir/LearnReferences.cpp.o.provides: CMakeFiles/CLionTest.dir/LearnReferences.cpp.o.requires
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnReferences.cpp.o.provides.build
+.PHONY : CMakeFiles/CLionTest.dir/LearnReferences.cpp.o.provides
+
+CMakeFiles/CLionTest.dir/LearnReferences.cpp.o.provides.build: CMakeFiles/CLionTest.dir/LearnReferences.cpp.o
+
+
 # Object files for target CLionTest
 CLionTest_OBJECTS = \
 "CMakeFiles/CLionTest.dir/main.cpp.o" \
@@ -258,7 +330,10 @@ CLionTest_OBJECTS = \
 "CMakeFiles/CLionTest.dir/LearnPointers.cpp.o" \
 "CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o" \
 "CMakeFiles/CLionTest.dir/tools.cpp.o" \
-"CMakeFiles/CLionTest.dir/LearnErrors.cpp.o"
+"CMakeFiles/CLionTest.dir/LearnErrors.cpp.o" \
+"CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o" \
+"CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o" \
+"CMakeFiles/CLionTest.dir/LearnReferences.cpp.o"
 
 # External object files for target CLionTest
 CLionTest_EXTERNAL_OBJECTS =
@@ -271,9 +346,12 @@ CLionTest: CMakeFiles/CLionTest.dir/LearnPointers.cpp.o
 CLionTest: CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o
 CLionTest: CMakeFiles/CLionTest.dir/tools.cpp.o
 CLionTest: CMakeFiles/CLionTest.dir/LearnErrors.cpp.o
+CLionTest: CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o
+CLionTest: CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o
+CLionTest: CMakeFiles/CLionTest.dir/LearnReferences.cpp.o
 CLionTest: CMakeFiles/CLionTest.dir/build.make
 CLionTest: CMakeFiles/CLionTest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable CLionTest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable CLionTest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CLionTest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -289,6 +367,9 @@ CMakeFiles/CLionTest.dir/requires: CMakeFiles/CLionTest.dir/LearnPointers.cpp.o.
 CMakeFiles/CLionTest.dir/requires: CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o.requires
 CMakeFiles/CLionTest.dir/requires: CMakeFiles/CLionTest.dir/tools.cpp.o.requires
 CMakeFiles/CLionTest.dir/requires: CMakeFiles/CLionTest.dir/LearnErrors.cpp.o.requires
+CMakeFiles/CLionTest.dir/requires: CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o.requires
+CMakeFiles/CLionTest.dir/requires: CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o.requires
+CMakeFiles/CLionTest.dir/requires: CMakeFiles/CLionTest.dir/LearnReferences.cpp.o.requires
 
 .PHONY : CMakeFiles/CLionTest.dir/requires
 

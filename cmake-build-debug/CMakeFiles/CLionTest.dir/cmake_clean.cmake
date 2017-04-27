@@ -7,6 +7,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o"
   "CMakeFiles/CLionTest.dir/tools.cpp.o"
   "CMakeFiles/CLionTest.dir/LearnErrors.cpp.o"
+  "CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o"
+  "CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o"
+  "CMakeFiles/CLionTest.dir/LearnReferences.cpp.o"
   "CLionTest.pdb"
   "CLionTest"
 )

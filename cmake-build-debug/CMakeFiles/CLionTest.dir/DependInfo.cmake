@@ -6,10 +6,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/michael/CLionProjects/LearnCpp/LearnConstructors.cpp" "/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/LearnConstructors.cpp.o"
   "/Users/michael/CLionProjects/LearnCpp/LearnContainers.cpp" "/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/LearnContainers.cpp.o"
+  "/Users/michael/CLionProjects/LearnCpp/LearnCpp11.cpp" "/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o"
   "/Users/michael/CLionProjects/LearnCpp/LearnErrors.cpp" "/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/LearnErrors.cpp.o"
   "/Users/michael/CLionProjects/LearnCpp/LearnFunctions.cpp" "/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o"
   "/Users/michael/CLionProjects/LearnCpp/LearnInheritance.cpp" "/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/LearnInheritance.cpp.o"
   "/Users/michael/CLionProjects/LearnCpp/LearnPointers.cpp" "/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/LearnPointers.cpp.o"
+  "/Users/michael/CLionProjects/LearnCpp/LearnReferences.cpp" "/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/LearnReferences.cpp.o"
+  "/Users/michael/CLionProjects/LearnCpp/LearnTemplates.cpp" "/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o"
   "/Users/michael/CLionProjects/LearnCpp/main.cpp" "/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/main.cpp.o"
   "/Users/michael/CLionProjects/LearnCpp/tools.cpp" "/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/tools.cpp.o"
   )

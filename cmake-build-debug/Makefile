@@ -177,6 +177,33 @@ LearnContainers.cpp.s:
 	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnContainers.cpp.s
 .PHONY : LearnContainers.cpp.s
 
+LearnCpp11.o: LearnCpp11.cpp.o
+
+.PHONY : LearnCpp11.o
+
+# target to build an object file
+LearnCpp11.cpp.o:
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnCpp11.cpp.o
+.PHONY : LearnCpp11.cpp.o
+
+LearnCpp11.i: LearnCpp11.cpp.i
+
+.PHONY : LearnCpp11.i
+
+# target to preprocess a source file
+LearnCpp11.cpp.i:
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnCpp11.cpp.i
+.PHONY : LearnCpp11.cpp.i
+
+LearnCpp11.s: LearnCpp11.cpp.s
+
+.PHONY : LearnCpp11.s
+
+# target to generate assembly for a file
+LearnCpp11.cpp.s:
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnCpp11.cpp.s
+.PHONY : LearnCpp11.cpp.s
+
 LearnErrors.o: LearnErrors.cpp.o
 
 .PHONY : LearnErrors.o
@@ -285,6 +312,60 @@ LearnPointers.cpp.s:
 	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnPointers.cpp.s
 .PHONY : LearnPointers.cpp.s
 
+LearnReferences.o: LearnReferences.cpp.o
+
+.PHONY : LearnReferences.o
+
+# target to build an object file
+LearnReferences.cpp.o:
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnReferences.cpp.o
+.PHONY : LearnReferences.cpp.o
+
+LearnReferences.i: LearnReferences.cpp.i
+
+.PHONY : LearnReferences.i
+
+# target to preprocess a source file
+LearnReferences.cpp.i:
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnReferences.cpp.i
+.PHONY : LearnReferences.cpp.i
+
+LearnReferences.s: LearnReferences.cpp.s
+
+.PHONY : LearnReferences.s
+
+# target to generate assembly for a file
+LearnReferences.cpp.s:
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnReferences.cpp.s
+.PHONY : LearnReferences.cpp.s
+
+LearnTemplates.o: LearnTemplates.cpp.o
+
+.PHONY : LearnTemplates.o
+
+# target to build an object file
+LearnTemplates.cpp.o:
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnTemplates.cpp.o
+.PHONY : LearnTemplates.cpp.o
+
+LearnTemplates.i: LearnTemplates.cpp.i
+
+.PHONY : LearnTemplates.i
+
+# target to preprocess a source file
+LearnTemplates.cpp.i:
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnTemplates.cpp.i
+.PHONY : LearnTemplates.cpp.i
+
+LearnTemplates.s: LearnTemplates.cpp.s
+
+.PHONY : LearnTemplates.s
+
+# target to generate assembly for a file
+LearnTemplates.cpp.s:
+	$(MAKE) -f CMakeFiles/CLionTest.dir/build.make CMakeFiles/CLionTest.dir/LearnTemplates.cpp.s
+.PHONY : LearnTemplates.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -354,6 +435,9 @@ help:
 	@echo "... LearnContainers.o"
 	@echo "... LearnContainers.i"
 	@echo "... LearnContainers.s"
+	@echo "... LearnCpp11.o"
+	@echo "... LearnCpp11.i"
+	@echo "... LearnCpp11.s"
 	@echo "... LearnErrors.o"
 	@echo "... LearnErrors.i"
 	@echo "... LearnErrors.s"
@@ -366,6 +450,12 @@ help:
 	@echo "... LearnPointers.o"
 	@echo "... LearnPointers.i"
 	@echo "... LearnPointers.s"
+	@echo "... LearnReferences.o"
+	@echo "... LearnReferences.i"
+	@echo "... LearnReferences.s"
+	@echo "... LearnTemplates.o"
+	@echo "... LearnTemplates.i"
+	@echo "... LearnTemplates.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

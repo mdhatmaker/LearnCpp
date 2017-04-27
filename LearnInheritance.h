@@ -186,6 +186,34 @@ namespace LearnInheritance
     };
 
 
+    class Animal
+    {
+    protected:
+        int legs = 4;
+    public:
+
+        explicit Animal(int legs) : legs(legs)
+        {
+        }
+
+        virtual int Walk(int steps)
+        {
+            return steps * 20;
+        }
+    };
+
+    class Human : public Animal
+    {
+    public:
+        Human() : Animal(2) {}
+
+        Human(const Human&) = delete;
+
+        int Walk(int steps) override;
+    };
+
+
+
     int main();
 
 } // namespace LearnInheritance

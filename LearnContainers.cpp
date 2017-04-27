@@ -7,6 +7,7 @@
 #include <set>
 #include <vector>
 #include <list>
+#include <map>
 
 using namespace std;
 
@@ -26,6 +27,38 @@ namespace LearnContainers
 
     int main()
     {
+        vector<int> values = {1, 2, 3, 4, 5};
+
+        map<string, string> capitals = {
+                { "UK", "London" },
+                { "USA", "Washington DC"}
+        };
+        cout << capitals["UK"] << endl;
+
+        vector<double> dvalues;
+        typedef decltype(dvalues.begin()) dvi;  // declare type of iterator of dvalues
+
+        vector<int> vv = {1, 2, 3};
+        /*for (int i = 0; i < v.size(); ++i)
+        {
+            // old-style loop iteration
+        }*/
+        for (int& a : vv)    // for (int a : v) to use value rather than reference
+        {
+            a *= a;
+            cout << a << endl;
+        }
+
+        map<string, int> histogram = {
+                {"hello", 111},
+                {"world", 222}
+        };
+        for (const auto& kvp: histogram)
+        {
+            cout << kvp.second << endl;
+        }
+
+
         list<int> l({5, 2, 6, 1, 13, 9, 19});
         cout << l.size() << endl;
         l.erase(remove_if(l.begin(), l.end(), &p), l.end());
