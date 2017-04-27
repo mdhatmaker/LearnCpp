@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/michael/CLionProjects/CLionTest/cmake-build-debug"/>
+				<Option working_dir="/Users/michael/CLionProjects/LearnCpp/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/michael/CLionProjects/CLionTest/cmake-build-debug"/>
+				<Option working_dir="/Users/michael/CLionProjects/LearnCpp/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/michael/CLionProjects/CLionTest/cmake-build-debug"/>
+				<Option working_dir="/Users/michael/CLionProjects/LearnCpp/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CLionTest">
-				<Option output="/Users/michael/CLionProjects/CLionTest/cmake-build-debug/CLionTest" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/michael/CLionProjects/CLionTest/cmake-build-debug"/>
+				<Option output="/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CLionTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michael/CLionProjects/LearnCpp/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 CLionTest"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 CLionTest"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="CLionTest/fast">
-				<Option output="/Users/michael/CLionProjects/CLionTest/cmake-build-debug/CLionTest" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/michael/CLionProjects/CLionTest/cmake-build-debug"/>
+				<Option output="/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CLionTest" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/michael/CLionProjects/LearnCpp/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -75,59 +75,59 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 CLionTest/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/CLionTest/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 CLionTest/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnConstructors.cpp">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnConstructors.cpp">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnConstructors.h">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnConstructors.h">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnContainers.cpp">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnContainers.cpp">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnContainers.h">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnContainers.h">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnErrors.cpp">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnErrors.cpp">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnErrors.h">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnErrors.h">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnFunctions.cpp">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnFunctions.cpp">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnFunctions.h">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnFunctions.h">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnInheritance.cpp">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnInheritance.cpp">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnInheritance.h">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnInheritance.h">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnPointers.cpp">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnPointers.cpp">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/LearnPointers.h">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/LearnPointers.h">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/main.cpp">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/main.cpp">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/tools.cpp">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/tools.cpp">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/tools.h">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/tools.h">
 			<Option target="CLionTest"/>
 		</Unit>
-		<Unit filename="/Users/michael/CLionProjects/CLionTest/CMakeLists.txt">
+		<Unit filename="/Users/michael/CLionProjects/LearnCpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

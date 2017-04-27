@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/michael/CLionProjects/CLionTest
+CMAKE_SOURCE_DIR = /Users/michael/CLionProjects/LearnCpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/michael/CLionProjects/CLionTest/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/michael/CLionProjects/LearnCpp/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CLionTest.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/CLionTest.dir/flags.make
 
 CMakeFiles/CLionTest.dir/main.cpp.o: CMakeFiles/CLionTest.dir/flags.make
 CMakeFiles/CLionTest.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/CLionTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CLionTest.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/main.cpp.o -c /Users/michael/CLionProjects/CLionTest/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CLionTest.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/main.cpp.o -c /Users/michael/CLionProjects/LearnCpp/main.cpp
 
 CMakeFiles/CLionTest.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLionTest.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/CLionTest/main.cpp > CMakeFiles/CLionTest.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/LearnCpp/main.cpp > CMakeFiles/CLionTest.dir/main.cpp.i
 
 CMakeFiles/CLionTest.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionTest.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/CLionTest/main.cpp -o CMakeFiles/CLionTest.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/LearnCpp/main.cpp -o CMakeFiles/CLionTest.dir/main.cpp.s
 
 CMakeFiles/CLionTest.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/CLionTest.dir/main.cpp.o.provides.build: CMakeFiles/CLionTest.dir/mai
 
 CMakeFiles/CLionTest.dir/LearnConstructors.cpp.o: CMakeFiles/CLionTest.dir/flags.make
 CMakeFiles/CLionTest.dir/LearnConstructors.cpp.o: ../LearnConstructors.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/CLionTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CLionTest.dir/LearnConstructors.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnConstructors.cpp.o -c /Users/michael/CLionProjects/CLionTest/LearnConstructors.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CLionTest.dir/LearnConstructors.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnConstructors.cpp.o -c /Users/michael/CLionProjects/LearnCpp/LearnConstructors.cpp
 
 CMakeFiles/CLionTest.dir/LearnConstructors.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLionTest.dir/LearnConstructors.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/CLionTest/LearnConstructors.cpp > CMakeFiles/CLionTest.dir/LearnConstructors.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/LearnCpp/LearnConstructors.cpp > CMakeFiles/CLionTest.dir/LearnConstructors.cpp.i
 
 CMakeFiles/CLionTest.dir/LearnConstructors.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionTest.dir/LearnConstructors.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/CLionTest/LearnConstructors.cpp -o CMakeFiles/CLionTest.dir/LearnConstructors.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/LearnCpp/LearnConstructors.cpp -o CMakeFiles/CLionTest.dir/LearnConstructors.cpp.s
 
 CMakeFiles/CLionTest.dir/LearnConstructors.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/CLionTest.dir/LearnConstructors.cpp.o.provides.build: CMakeFiles/CLio
 
 CMakeFiles/CLionTest.dir/LearnInheritance.cpp.o: CMakeFiles/CLionTest.dir/flags.make
 CMakeFiles/CLionTest.dir/LearnInheritance.cpp.o: ../LearnInheritance.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/CLionTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CLionTest.dir/LearnInheritance.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnInheritance.cpp.o -c /Users/michael/CLionProjects/CLionTest/LearnInheritance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CLionTest.dir/LearnInheritance.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnInheritance.cpp.o -c /Users/michael/CLionProjects/LearnCpp/LearnInheritance.cpp
 
 CMakeFiles/CLionTest.dir/LearnInheritance.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLionTest.dir/LearnInheritance.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/CLionTest/LearnInheritance.cpp > CMakeFiles/CLionTest.dir/LearnInheritance.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/LearnCpp/LearnInheritance.cpp > CMakeFiles/CLionTest.dir/LearnInheritance.cpp.i
 
 CMakeFiles/CLionTest.dir/LearnInheritance.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionTest.dir/LearnInheritance.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/CLionTest/LearnInheritance.cpp -o CMakeFiles/CLionTest.dir/LearnInheritance.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/LearnCpp/LearnInheritance.cpp -o CMakeFiles/CLionTest.dir/LearnInheritance.cpp.s
 
 CMakeFiles/CLionTest.dir/LearnInheritance.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/CLionTest.dir/LearnInheritance.cpp.o.provides.build: CMakeFiles/CLion
 
 CMakeFiles/CLionTest.dir/LearnContainers.cpp.o: CMakeFiles/CLionTest.dir/flags.make
 CMakeFiles/CLionTest.dir/LearnContainers.cpp.o: ../LearnContainers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/CLionTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CLionTest.dir/LearnContainers.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnContainers.cpp.o -c /Users/michael/CLionProjects/CLionTest/LearnContainers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CLionTest.dir/LearnContainers.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnContainers.cpp.o -c /Users/michael/CLionProjects/LearnCpp/LearnContainers.cpp
 
 CMakeFiles/CLionTest.dir/LearnContainers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLionTest.dir/LearnContainers.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/CLionTest/LearnContainers.cpp > CMakeFiles/CLionTest.dir/LearnContainers.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/LearnCpp/LearnContainers.cpp > CMakeFiles/CLionTest.dir/LearnContainers.cpp.i
 
 CMakeFiles/CLionTest.dir/LearnContainers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionTest.dir/LearnContainers.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/CLionTest/LearnContainers.cpp -o CMakeFiles/CLionTest.dir/LearnContainers.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/LearnCpp/LearnContainers.cpp -o CMakeFiles/CLionTest.dir/LearnContainers.cpp.s
 
 CMakeFiles/CLionTest.dir/LearnContainers.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/CLionTest.dir/LearnContainers.cpp.o.provides.build: CMakeFiles/CLionT
 
 CMakeFiles/CLionTest.dir/LearnPointers.cpp.o: CMakeFiles/CLionTest.dir/flags.make
 CMakeFiles/CLionTest.dir/LearnPointers.cpp.o: ../LearnPointers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/CLionTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CLionTest.dir/LearnPointers.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnPointers.cpp.o -c /Users/michael/CLionProjects/CLionTest/LearnPointers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CLionTest.dir/LearnPointers.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnPointers.cpp.o -c /Users/michael/CLionProjects/LearnCpp/LearnPointers.cpp
 
 CMakeFiles/CLionTest.dir/LearnPointers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLionTest.dir/LearnPointers.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/CLionTest/LearnPointers.cpp > CMakeFiles/CLionTest.dir/LearnPointers.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/LearnCpp/LearnPointers.cpp > CMakeFiles/CLionTest.dir/LearnPointers.cpp.i
 
 CMakeFiles/CLionTest.dir/LearnPointers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionTest.dir/LearnPointers.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/CLionTest/LearnPointers.cpp -o CMakeFiles/CLionTest.dir/LearnPointers.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/LearnCpp/LearnPointers.cpp -o CMakeFiles/CLionTest.dir/LearnPointers.cpp.s
 
 CMakeFiles/CLionTest.dir/LearnPointers.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/CLionTest.dir/LearnPointers.cpp.o.provides.build: CMakeFiles/CLionTes
 
 CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o: CMakeFiles/CLionTest.dir/flags.make
 CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o: ../LearnFunctions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/CLionTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o -c /Users/michael/CLionProjects/CLionTest/LearnFunctions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o -c /Users/michael/CLionProjects/LearnCpp/LearnFunctions.cpp
 
 CMakeFiles/CLionTest.dir/LearnFunctions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLionTest.dir/LearnFunctions.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/CLionTest/LearnFunctions.cpp > CMakeFiles/CLionTest.dir/LearnFunctions.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/LearnCpp/LearnFunctions.cpp > CMakeFiles/CLionTest.dir/LearnFunctions.cpp.i
 
 CMakeFiles/CLionTest.dir/LearnFunctions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionTest.dir/LearnFunctions.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/CLionTest/LearnFunctions.cpp -o CMakeFiles/CLionTest.dir/LearnFunctions.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/LearnCpp/LearnFunctions.cpp -o CMakeFiles/CLionTest.dir/LearnFunctions.cpp.s
 
 CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/CLionTest.dir/LearnFunctions.cpp.o.provides.build: CMakeFiles/CLionTe
 
 CMakeFiles/CLionTest.dir/tools.cpp.o: CMakeFiles/CLionTest.dir/flags.make
 CMakeFiles/CLionTest.dir/tools.cpp.o: ../tools.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/CLionTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CLionTest.dir/tools.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/tools.cpp.o -c /Users/michael/CLionProjects/CLionTest/tools.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CLionTest.dir/tools.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/tools.cpp.o -c /Users/michael/CLionProjects/LearnCpp/tools.cpp
 
 CMakeFiles/CLionTest.dir/tools.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLionTest.dir/tools.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/CLionTest/tools.cpp > CMakeFiles/CLionTest.dir/tools.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/LearnCpp/tools.cpp > CMakeFiles/CLionTest.dir/tools.cpp.i
 
 CMakeFiles/CLionTest.dir/tools.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionTest.dir/tools.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/CLionTest/tools.cpp -o CMakeFiles/CLionTest.dir/tools.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/LearnCpp/tools.cpp -o CMakeFiles/CLionTest.dir/tools.cpp.s
 
 CMakeFiles/CLionTest.dir/tools.cpp.o.requires:
 
@@ -227,16 +227,16 @@ CMakeFiles/CLionTest.dir/tools.cpp.o.provides.build: CMakeFiles/CLionTest.dir/to
 
 CMakeFiles/CLionTest.dir/LearnErrors.cpp.o: CMakeFiles/CLionTest.dir/flags.make
 CMakeFiles/CLionTest.dir/LearnErrors.cpp.o: ../LearnErrors.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/CLionTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CLionTest.dir/LearnErrors.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnErrors.cpp.o -c /Users/michael/CLionProjects/CLionTest/LearnErrors.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CLionTest.dir/LearnErrors.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CLionTest.dir/LearnErrors.cpp.o -c /Users/michael/CLionProjects/LearnCpp/LearnErrors.cpp
 
 CMakeFiles/CLionTest.dir/LearnErrors.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CLionTest.dir/LearnErrors.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/CLionTest/LearnErrors.cpp > CMakeFiles/CLionTest.dir/LearnErrors.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/michael/CLionProjects/LearnCpp/LearnErrors.cpp > CMakeFiles/CLionTest.dir/LearnErrors.cpp.i
 
 CMakeFiles/CLionTest.dir/LearnErrors.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CLionTest.dir/LearnErrors.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/CLionTest/LearnErrors.cpp -o CMakeFiles/CLionTest.dir/LearnErrors.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/michael/CLionProjects/LearnCpp/LearnErrors.cpp -o CMakeFiles/CLionTest.dir/LearnErrors.cpp.s
 
 CMakeFiles/CLionTest.dir/LearnErrors.cpp.o.requires:
 
@@ -273,7 +273,7 @@ CLionTest: CMakeFiles/CLionTest.dir/tools.cpp.o
 CLionTest: CMakeFiles/CLionTest.dir/LearnErrors.cpp.o
 CLionTest: CMakeFiles/CLionTest.dir/build.make
 CLionTest: CMakeFiles/CLionTest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/michael/CLionProjects/CLionTest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable CLionTest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable CLionTest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CLionTest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -297,6 +297,6 @@ CMakeFiles/CLionTest.dir/clean:
 .PHONY : CMakeFiles/CLionTest.dir/clean
 
 CMakeFiles/CLionTest.dir/depend:
-	cd /Users/michael/CLionProjects/CLionTest/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/michael/CLionProjects/CLionTest /Users/michael/CLionProjects/CLionTest /Users/michael/CLionProjects/CLionTest/cmake-build-debug /Users/michael/CLionProjects/CLionTest/cmake-build-debug /Users/michael/CLionProjects/CLionTest/cmake-build-debug/CMakeFiles/CLionTest.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/michael/CLionProjects/LearnCpp/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/michael/CLionProjects/LearnCpp /Users/michael/CLionProjects/LearnCpp /Users/michael/CLionProjects/LearnCpp/cmake-build-debug /Users/michael/CLionProjects/LearnCpp/cmake-build-debug /Users/michael/CLionProjects/LearnCpp/cmake-build-debug/CMakeFiles/CLionTest.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CLionTest.dir/depend
 
